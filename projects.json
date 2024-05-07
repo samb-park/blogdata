@@ -44,7 +44,6 @@
     {
       "date": "2022",
       "name": "Lot Tracking System, Peer Group Orientation Project",
-      "gitUrl": "",
       "description": [
         "Designed a server-client architecture using C# and SQL Server.",
         "Developed UI using WPF and MVVM, connected to the server via REST API.",
@@ -90,115 +89,6 @@
     {
       "date": "2012 - 2019",
       "name": "Galaxy S, Note and Watch, Samsung Electronics",
-      "gitUrl": "",
-      "description": [
-        "Contributions to Galaxy S, Note, and Watch series at Samsung Electronics, focusing on dual sim standby architecture and power optimization during IDLE mode."
-      ],
-      "skills": [
-        "Embedded Systems",
-        "Power Optimization",
-        "Dual SIM Technology",
-        "C",
-        "3GPP",
-        "Protocol",
-        "RTOS"
-      ]
-    }
-  ]
-}
-{
-  "projects": [
-    {
-      "date": "2024",
-      "name": "Initiate News, Capstone Project",
-      "gitUrl": "https://github.com/Gemnnn/initiate-rest-api",
-      "description": [
-        "Developed server utilizing ASP.NET Core WebAPI, with SQL Server as the database with NUnit.",
-        "Implemented server-side application using dependency injection to handle ChatGPT and NewsAPI service.",
-        "Entity Framework and REST API with JSON for data management and communication."
-      ],
-      "skills": [
-        "C#",
-        "ASP.NET Core",
-        "Rest API",
-        "NewsAPI",
-        "ChatGPT",
-        "MS SQL",
-        "Entity Framework",
-        "NUnit"
-      ]
-    },
-    {
-      "date": "2023",
-      "name": "Game Sales Website, College Team Project",
-      "gitUrl": "https://github.com/junseo-yang/virtual-game-store",
-      "description": [
-        "Implemented a game sales website using ASP.NET Core MVC, ensuring a robust and user-friendly online platform.",
-        "Spearheaded the program architecture and model design, laying a solid foundation for scalable and efficient functionality.",
-        "Authored and executed comprehensive unit tests using Selenium, enhancing code reliability and performance."
-      ],
-      "skills": [
-        "ASP.NET Core MVC",
-        "C#",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "Entity Framework",
-        "MS SQL",
-        "Selenium",
-        "Web Development"
-      ]
-    },
-    {
-      "date": "2022",
-      "name": "Lot Tracking System, Peer Group Orientation Project",
-      "gitUrl": "",
-      "description": [
-        "Designed a server-client architecture using C# and SQL Server.",
-        "Developed UI using WPF and MVVM, connected to the server via REST API.",
-        "Created a WEB API server on ASP.NET, integrating with SQL Server via Entity Framework."
-      ],
-      "skills": [
-        "C#",
-        "SQL Server",
-        "WPF",
-        "MVVM",
-        "REST API",
-        "ASP.NET",
-        "Entity Framework"
-      ]
-    },
-    {
-      "date": "2021",
-      "name": "Individual Web Sites",
-      "gitUrl": "https://github.com/samb-park/Portfolio.V4_Server",
-      "description": [
-        "Developed individual websites using Blazor Frameworks and ASP.NET Core.",
-        "Deployed client pages and connected databases using RESTful APIs."
-      ],
-      "skills": [
-        "Blazor",
-        "ASP.NET Core",
-        "REST API",
-        "MS Sql",
-        "C#",
-        "HTML",
-        "Tailwind CSS"
-      ]
-    },
-    {
-      "date": "2019",
-      "name": "Patent Application (No.10893478), Samsung Electronics",
-      "gitUrl": "https://patents.justia.com/patent/10893478",
-      "description": [
-        "Patent Application (No.10893478): Multi-SIM devices scheduling for base station searcher."
-      ],
-      "skills": ["Patent Drafting"]
-    },
-    {
-      "date": "2012 - 2019",
-      "name": "Galaxy S, Note and Watch, Samsung Electronics",
-      "gitUrl": "",
       "description": [
         "Contributions to Galaxy S, Note, and Watch series at Samsung Electronics, focusing on dual sim standby architecture and power optimization during IDLE mode."
       ],
