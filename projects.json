@@ -44,6 +44,7 @@
     {
       "date": "2022",
       "name": "Lot Tracking System, Peer Group Orientation Project",
+      "gitUrl": "",
       "description": [
         "Designed a server-client architecture using C# and SQL Server.",
         "Developed UI using WPF and MVVM, connected to the server via REST API.",
@@ -89,6 +90,7 @@
     {
       "date": "2012 - 2019",
       "name": "Galaxy S, Note and Watch, Samsung Electronics",
+      "gitUrl": "",
       "description": [
         "Contributions to Galaxy S, Note, and Watch series at Samsung Electronics, focusing on dual sim standby architecture and power optimization during IDLE mode."
       ],
