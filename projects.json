@@ -3,7 +3,7 @@
     {
       "date": "2024",
       "name": "Individual Web Site V2",
-      "gitUrl": "https://github.com/samb-park/blog",
+      "gitUrl": "https://sangbong.dev",
       "description": [
         "Developed a personal website using JavaScript and React, focusing on frontend functionality and interactive user interfaces.",
         "Deployed the site on GitHub Pages with a custom domain, handling DNS configuration and HTTPS setup.",
