@@ -80,7 +80,7 @@
     {
       "date": "2021",
       "name": "Individual Web Site",
-      "gitUrl": "admiring-sammet-3a7ca8.netlify.app",
+      "gitUrl": "https://admiring-sammet-3a7ca8.netlify.app",
       "description": [
         "Developed individual websites using Blazor Frameworks and ASP.NET Core.",
         "Deployed client pages and connected databases using RESTful APIs."
