@@ -2,6 +2,23 @@
   "projects": [
     {
       "date": "2024",
+      "name": "Individual Web Site V2",
+      "gitUrl": "https://github.com/samb-park/blog",
+      "description": [
+        "Developed a personal website using JavaScript and React, focusing on frontend functionality and interactive user interfaces.",
+        "Deployed the site on GitHub Pages with a custom domain, handling DNS configuration and HTTPS setup.",
+        "Utilized JSON for client-side data storage and management to simulate database interactions within the website."
+      ],
+      "skills": [
+        "Javascript",
+        "ReactJS",
+        "Custom Domain",
+        "GitHub Page",
+        "JSON"
+      ]
+    },
+    {
+      "date": "2024",
       "name": "Initiate News, Capstone Project",
       "gitUrl": "https://github.com/Gemnnn/initiate-rest-api",
       "description": [
@@ -62,8 +79,8 @@
     },
     {
       "date": "2021",
-      "name": "Individual Web Sites",
-      "gitUrl": "https://github.com/samb-park/Portfolio.V4_Server",
+      "name": "Individual Web Site",
+      "gitUrl": "admiring-sammet-3a7ca8.netlify.app",
       "description": [
         "Developed individual websites using Blazor Frameworks and ASP.NET Core.",
         "Deployed client pages and connected databases using RESTful APIs."
