@@ -14,7 +14,13 @@
         "ReactJS",
         "Custom Domain",
         "GitHub Page",
-        "JSON"
+        "JSON",
+        "Rest API",
+        "Bootstrap",
+        "HTML",
+        "CSS",
+        "MongoDB",
+        "Web Development"
       ]
     },
     {
@@ -28,13 +34,14 @@
       ],
       "skills": [
         "C#",
-        "ASP.NET Core",
+        "ASP.NET",
         "Rest API",
         "NewsAPI",
         "ChatGPT",
         "MS SQL",
         "Entity Framework",
-        "NUnit"
+        "NUnit",
+        "Web Development"
       ]
     },
     {
@@ -47,7 +54,7 @@
         "Authored and executed comprehensive unit tests using Selenium, enhancing code reliability and performance."
       ],
       "skills": [
-        "ASP.NET Core MVC",
+        "ASP.NET",
         "C#",
         "HTML",
         "CSS",
@@ -55,7 +62,8 @@
         "Entity Framework",
         "MS SQL",
         "Selenium",
-        "Web Development"
+        "Web Development",
+        "MVC"
       ]
     },
     {
@@ -69,12 +77,13 @@
       ],
       "skills": [
         "C#",
-        "SQL Server",
+        "MS SQL",
         "WPF",
         "MVVM",
         "REST API",
         "ASP.NET",
-        "Entity Framework"
+        "Entity Framework",
+        "Web Development"
       ]
     },
     {
@@ -87,12 +96,14 @@
       ],
       "skills": [
         "Blazor",
-        "ASP.NET Core",
+        "ASP.NET",
         "REST API",
         "MS Sql",
-        "C#",
+        "C#",,
+        "CSS",
         "HTML",
-        "Tailwind CSS"
+        "Tailwind CSS",
+        "Web Development"
       ]
     },
     {
