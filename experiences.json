@@ -1,6 +1,25 @@
 {
   "experiences": [
     {
+      "date": "JUN 2024 - PRESENT",
+      "name": "Ubix Innovations",
+      "location": "North York, ON, CA",
+      "title": "Software Engineer - Full-time",
+      "description": [
+        "Developed and executed CRUD operations, tailored to meet specific customer requirements.",
+        "Performed maintenance and development for tollgate systems.",
+        "Managed database operations and wrote complex queries."
+      ],
+      "skills": [
+        "Spring Framework",
+        "Java",
+        "Jasper Reports",
+        "MS SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
       "date": "AUG 2023 - APR 2024",
       "name": "Peer Group",
       "location": "Kitchener, ON, CA",
