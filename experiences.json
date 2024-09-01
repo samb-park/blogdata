@@ -1,27 +1,6 @@
 {
   "experiences": [
     {
-      "date": "JUN 2024 - PRESENT",
-      "name": "Ubix Innovations",
-      "location": "North York, ON, CA",
-      "title": "Software Engineer - Full-time",
-      "description": [
-        "Implemented and maintained Toll systems, ensuring high availability and performance.",
-        "Developed and maintained web servers to support various applications and services.",
-        "Utilized a variety of technologies, including Java, Spring Framework, ZK Framework, Oracle DB, MS SQL.",
-        "Engaged in troubleshooting and problem-solving to enhance system functionality and user satisfaction."
-      ],
-      "skills": [
-        "Spring Framework",
-        "Java",
-        "Jasper Reports",
-        "MS SQL",
-        "HTML",
-        "CSS",
-        "ZK Framework"
-      ]
-    },
-    {
       "date": "AUG 2023 - APR 2024",
       "name": "Peer Group",
       "location": "Kitchener, ON, CA",
