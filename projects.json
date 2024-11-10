@@ -2,6 +2,26 @@
     "projects": [
         {
             "date": "2024",
+            "name": "Simple Todo app",
+            "gitUrl": "https://todo-sandy-sigma.vercel.app/",
+             "description": [
+                "Created a simple Todo application with React, Recoil, and Axios for managing tasks.",
+                "Implemented CRUD operations with a mock API for task management.",
+                "Styled the application using Tailwind CSS for a responsive and clean interface."
+            ],
+            "skills": [
+                "React",
+                "Recoil",
+                "Axios",
+                "JavaScript",
+                "Tailwind CSS",
+                "MockAPI",
+                "CRUD",
+                "Web Development"
+            ]
+        },
+        {
+            "date": "2024",
             "name": "Individual Web Site V2",
             "gitUrl": "https://sangbong.dev",
             "description": [
