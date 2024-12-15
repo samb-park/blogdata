@@ -1,6 +1,24 @@
 {
   "experiences": [
     {
+      "date": "NOV 2024 - PRESENT",
+      "name": "BNX Shipping",
+      "location": "Mississauga, ON, CA",
+      "title": "Software Developer - full-time",
+      "description": [
+        "Implemented ERP system based on NEXT.JS and Typescript according to requirement",
+        "Developed and executed CRUD operations tailored to meet specific employees requirements."
+      ],
+      "skills": [
+        "Typescript",
+        "NextJs",
+        "My Sql",
+        "TailwindCss",
+        "Planet Scale",
+        "Vercel"
+      ]
+    },
+    {
       "date": "AUG 2023 - APR 2024",
       "name": "Peer Group",
       "location": "Kitchener, ON, CA",
